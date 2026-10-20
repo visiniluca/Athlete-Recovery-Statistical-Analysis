@@ -1,0 +1,6 @@
+"metric","value"
+"Linear_RMSE_test",9.0966445031827
+"Linear_MAE_test",7.27739566936058
+"Linear_R2_test",0.887539780170562
+"Logistic_accuracy_test",0.913183279742765
+"Logistic_AUC_test",0.971364362551928
